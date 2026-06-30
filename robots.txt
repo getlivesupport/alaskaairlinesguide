@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://getlivesupport.github.io/alaskaairlinesguide/sitemap.xml
